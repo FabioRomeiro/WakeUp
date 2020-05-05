@@ -1,7 +1,9 @@
 # WakeUp System
 
-FATEC - Graduation Project
+### Utilização de internet das coisas e inteligência artificial na detecção de debilidade no trânsito
 
 ---
+
+**FATEC - Graduation Project**
 
 Author: [Fábio Romeiro](https://github.com/FabioRomeiro)
